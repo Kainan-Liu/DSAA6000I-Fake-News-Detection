@@ -1,6 +1,6 @@
 # DSAA6000I-Fake-News-Detection
 
-This project is cooperate with @https://github.com/cshhzhao and @https://github.com/ioncer
+Cooperate with @https://github.com/cshhzhao and @https://github.com/ioncer
 
 
 ## Description
